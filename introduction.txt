@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Bilqeysa Abdikadir, a passionate learner diving into the world of tech with ALX. I’m currently exploring Linux, Git, and GitHub and aiming to build a strong foundation in software tools.
+
+I enjoy solving problems, collaborating on exciting projects, and sharpening my skills every day. This journey is just the beginning, and I'm here to grow, break things, fix them, and learn endlessly.
