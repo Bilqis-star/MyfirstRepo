@@ -1,1 +1,1 @@
-I'm learning how to use Git and GitHub in ALX.
+What I have learned from this course: I'm learning how to use Git and GitHub in ALX.
